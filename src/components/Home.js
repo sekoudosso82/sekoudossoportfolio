@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 import '../App.css';
-import { withRouter } from "react-router";
+// import { withRouter } from "react-router";
 
 class Home extends Component
 {
@@ -9,8 +9,14 @@ class Home extends Component
         return(
         
             <div>
+               <div className='homeMainDiv'>
+                <div className='homeSubDiv'> About</div>
+                <div className='homeSubDiv'>Portfolio</div>
+                <div className='homeSubDiv'>Blogs</div>
+                <div className='homeSubDiv'>Contact</div>
                 
-                Home: 
+               </div> 
+                
                 
     
             </div>

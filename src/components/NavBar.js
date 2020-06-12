@@ -1,23 +1,35 @@
 import React, {Component} from 'react'
+import { Link, NavLink } from 'react-router-dom'
+import {About,Blog,Contact,Home,Portfolio} from './Index'
+
 import '../App.css';
-import { withRouter } from "react-router";
+// import { withRouter } from "react-router";
 
 class NavBar extends Component
 {
     render(){
-            
         return(
-        
-            <div>
+            <div className= "navBarDiv"> 
+            
+                <div className= "home navSubDiv">
+                    <NavLink  to="/home">home</NavLink> </div>               
+                <div className= "portfolio navSubDiv">
+                    <NavLink  to='/portfolio'>portfolio</NavLink> </div>
                 
-                NavBar: 
+                <div className= "about navSubDiv">
+                    <NavLink  to='/about'>about</NavLink> </div>
                 
-    
+                <div className= "blogs navSubDiv">
+                    <NavLink  to='/blogs'>blogs</NavLink> </div>
+                
+                <div className= "contacts navSubDiv">
+                    <NavLink  to="/contacts">contacts</NavLink> </div>
+                
             </div>
         )
     } 
 }     
 
 
-    export default NavBar;
+export default NavBar;
     
