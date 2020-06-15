@@ -27,6 +27,14 @@ class About extends Component
                 {/*  Work Experience  */}
         
                 <h3> Work Experience </h3>
+                <div>
+                    <p>  01/01/2007 Manager at Express Market </p>
+                    {/* <ul> */}
+                        <li> debugin the store software to keep buniss runing </li> 
+                        <li> manage small team </li>
+                    {/* </ul> */}
+                </div>
+
                 <p>  I recently build my fisrt website just for fun <a href="https://www.mairieborotou.com">   www.mairieborotou.com</a></p>
                 <p>I worked with some of my friends to build their websites, for example:</p>
                 <p> <a href="http://www.berrybonds.studio"> www.berrybonds.studio/ </a> </p>

@@ -1,10 +1,10 @@
 import About from './About'
-import Blog from './Blog'
+import Resume from './Resume'
 import Contact from './Contact'
 import Home from './Home'
 import NavBar from './NavBar'
 import Portfolio from './Portfolio'  
 
 export {
-    About , Blog ,Contact ,Home ,NavBar, Portfolio
+    About , Resume ,Contact ,Home ,NavBar, Portfolio
 }

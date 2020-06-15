@@ -15,15 +15,12 @@ class NavBar extends Component
                     <NavLink  to="/home">home</NavLink> </div>               
                 <div className= "portfolio navSubDiv">
                     <NavLink  to='/portfolio'>portfolio</NavLink> </div>
-                
+                <div className= "blogs navSubDiv">
+                    <NavLink  to='/resume'>resume</NavLink> </div>
                 <div className= "about navSubDiv">
                     <NavLink  to='/about'>about</NavLink> </div>
-                
-                <div className= "blogs navSubDiv">
-                    <NavLink  to='/blogs'>blogs</NavLink> </div>
-                
                 <div className= "contacts navSubDiv">
-                    <NavLink  to="/contacts">contacts</NavLink> </div>
+                    <NavLink  to="/contacts">contacts/blogs</NavLink> </div>
                 
             </div>
         )
