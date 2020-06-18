@@ -9,7 +9,7 @@ import {About,Resume,Contact,Home,NavBar,Portfolio} from './components/Index'
 // import Portfolio from './components/Portfolio'
 
 
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 class  App extends Component {

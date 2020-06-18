@@ -58,8 +58,8 @@ class About extends Component
                     <h2> Reach me </h2>
                         {/* <a href=>sekou.dosso82@gmail.com</a> */}
                         <a href= "https://twitter.com/twitter ">Twitter: Sekou Dosso</a>
-                        <a href= "#">LinkedIn: Sekou Dosso</a>
-                        <a href= "#" >Facebook: Sekou Dosso</a>
+                        <a href= "https://www.linkedin.com/in/sekou-dosso-8ab727a0/">LinkedIn: Sekou Dosso</a>
+                        <a href= "https://www.facebook.com/SheaquiDeBorotou" >Facebook: Sekou Dosso</a>
                     <p>Copyright 2018 by Sekou Dosso</p>
             
             </footer>
