@@ -65,7 +65,11 @@ class Home extends Component
 
                     </div>
                     <div className='homeSubDiv'>
-                        <h2> Resume Coming Soon</h2>
+                    <h2>   
+                                    <NavLink className='homeFullPortfolioSubDiv' to='/resume'>Go to Full resume</NavLink> 
+                    </h2>
+                        {/* <h2> Resume</h2> */}
+                        <h2> Update Coming Soon</h2>
                     </div>
                     <div className='homeSubDiv homeContactDiv'>
                         <h2> Contact and Blogs </h2>
