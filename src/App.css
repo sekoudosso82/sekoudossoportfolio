@@ -61,7 +61,7 @@
 }
 
 .homeMainDiv{
-  /* overflow: scroll; */
+  overflow: scroll;
   background-image: url('./images/sheaqPortfolio.jpg');
   /* background-repeat: no-repeat; */
 
@@ -73,7 +73,7 @@
   /* Center the image */
   /* background-repeat: no-repeat;  */
   /* Do not repeat the image */
-  background-size: cover;
+  /* background-size: cover; */
   /* Resize the background image to cover the entire container */
   /* opacity: 0.5; */
 
