@@ -62,11 +62,11 @@
 
 .homeMainDiv{
   overflow: scroll;
-  background-image: url('./images/sheaqPortfolio.jpg');
-  /* background-repeat: no-repeat; */
+  /* background-image: url('./images/sheaqPortfolio.jpg'), url('./images/choice1.jpg'); */
+  background-repeat: no-repeat, no-repeat;
 
   /* background-image: url('./images/choice1.jpg'); */
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
   background-size: auto;
   /* background-size: 45% 100%; */
   /* background-position: center;  */
