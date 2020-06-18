@@ -62,11 +62,7 @@
 
 .homeMainDiv{
   overflow: scroll;
-  /* background-image: url('./images/sheaqPortfolio.jpg'), url('./images/choice1.jpg'); */
   background-repeat: no-repeat, no-repeat;
-
-  /* background-image: url('./images/choice1.jpg'); */
-  /* background-repeat: no-repeat; */
   background-size: auto;
   /* background-size: 45% 100%; */
   /* background-position: center;  */
@@ -100,16 +96,13 @@
   height: 40px;
   width: 20%;
   margin-left: 5%;
-  /* margin-top: 40%;   */
   float: left;
   text-align: left;
-  /* background-color: plum; */
 }
 .portfolioTextAlign{ 
   text-align: left;
 }
 .portfolioAbouthomeDiv{ 
-  /* text-align: left; */
   margin-top: 10%;
 }
 .homeFullPortfolioSubDiv{
@@ -117,7 +110,6 @@
   width: 40%;
   margin-left: 45%;  
   margin-top: 25px;
-  /* background-color: greenyellow; */
   text-align: left;
   font-size: 20px;
   font-weight: bold;
@@ -130,7 +122,6 @@
   margin-top: 1%; 
   float: left;
   text-align: left;
-  /* background-color: #2B2D42; */
 }
 .homeContactDiv{
   
