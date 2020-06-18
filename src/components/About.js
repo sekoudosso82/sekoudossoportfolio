@@ -45,8 +45,9 @@ class About extends Component
                 {/* <!-- // Education --> */}
        
                 <h3>Education</h3>
-                <p> Bronx Community College , Bronx , New York: Associate in Computer Science, 2006</p>            
-                <p> Lehman College , Bronx, New York: Bachelor in Computer Science, 2017-2019 </p>
+                <p> The Flatrion School , New York, NY: Software Engineering Bootcamp, 2020-2020 </p>
+                <p> Lehman College , Bronx, NY: Bachelor in Computer Science, 2017-2019 </p>
+                <p> Bronx Community College , Bronx , NY: Associate in Computer Science, 2016</p>            
             
       
             </main>
