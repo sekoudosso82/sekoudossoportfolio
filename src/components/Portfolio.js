@@ -10,14 +10,14 @@ class Portfolio extends Component
         
             <div>
                <div className='homeMainDiv'>
-                    <div className='contactSubDiv'> Corona-market</div>
-                    <div className='contactSubDiv'>Flatgram</div>
-                    <div className='contactSubDiv'>HashtagGoal</div>
-                    <div className='contactSubDiv'> Bank CLI app </div>
-                    <div className='contactSubDiv'>Best deal</div>
-                    <div className='contactSubDiv'>my-to-do-list</div>
-                    <div className='contactSubDiv'>School</div>
-                    <div className='contactSubDiv'>sekoudossoportfolio</div>
+                    <div className='portfolioSubDiv'> Corona-market</div>
+                    <div className='portfolioSubDiv'>Flatgram</div>
+                    <div className='portfolioSubDiv'>HashtagGoal</div>
+                    <div className='portfolioSubDiv'> Bank CLI app </div>
+                    <div className='portfolioSubDiv'>Best deal</div>
+                    <div className='portfolioSubDiv'>my-to-do-list</div>
+                    <div className='portfolioSubDiv'>School</div>
+                    <div className='portfolioSubDiv'>sekoudossoportfolio</div>
 
                 </div>
             </div>

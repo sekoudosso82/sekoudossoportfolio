@@ -32,7 +32,10 @@ class Home extends Component
                     </header>
                     </div>
                     <div className='homeSubDiv portfolioAbouthomeDiv'>
-                        <h3> Projects </h3>
+                        {/* <h3> Projects </h3> */}
+                        <div>   
+                                    <NavLink className='homeFullPortfolioSubDiv' to='/portfolio'>Go to Full Portfolio</NavLink> 
+                        </div>
 
                         <div className='homePortfolioSubDiv'>  
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/sekoudossoportfolio'> sekoudossoportfolio </a> </h3>
@@ -58,9 +61,7 @@ class Home extends Component
                         <div className='homePortfolioSubDiv'>       
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/banking_CLI'> Bank CLI app </a>  </h3>
                         </div>
-                        <div>   
-                                    <NavLink className='homeFullPortfolioSubDiv' to='/portfolio'>Go to Full Portfolio</NavLink> 
-                        </div>
+                        
                         
 
                     </div>
