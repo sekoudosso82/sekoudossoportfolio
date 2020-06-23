@@ -94,13 +94,15 @@
 .homePortfolioSubDiv{
   /* overflow: scroll; */
   height: 40px;
-  width: 25%;
+  max-width: 350px;
+  /* width: 45%; */
   margin-left: 5%;
   float: left;
   text-align: left;
 }
 .portfolioTextAlign{ 
   text-align: left;
+  
 }
 .portfolioAbouthomeDiv{ 
   margin-top: 10%;
@@ -117,7 +119,8 @@
 
 .homeContactSubDiv{
   height: 40px;
-  width: 20%;
+  max-width: 350px;
+  /* width: 20%; */
   margin-left: 5%; 
   margin-top: 1%; 
   float: left;
@@ -132,7 +135,8 @@
 .contactSubDiv{
   overflow: scroll;
   height: 30vh;
-  width: 20%;
+  max-width: 350px;
+  /* width: 20%; */
   border: 1px outset white;
   background-color: plum;
   float: left;
