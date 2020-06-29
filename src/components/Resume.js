@@ -135,7 +135,7 @@ class Resume extends Component
 	
 <h2> EDUCATION </h2>
 <h4> Flatiron School    		 New York, NY </h4>
-<ul>Full Stack Web Development, Ruby on Rails and JavaScript program 01/ 2020 - 05/20200</ul> 
+<ul>Full Stack Web Development, Ruby on Rails and JavaScript program 05/2020</ul> 
 
 <h4> CUNY Lehman College     							      Bronx, NY </h4>
 <ul> Bachelor in Computer Science       						      05/ 2019 </ul> 
