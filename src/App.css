@@ -153,8 +153,9 @@ a {
 a:hover {
 text-decoration: none;
 }
-h1, h2, h3, h4, p, ul, li {
+/* h1, h2, h3, h4, p, ul, li { */
   /* font-family: 'Caveat', cursive; */
+  h1, h2, h3, h4 {
   text-align: center;
 }
 
@@ -220,4 +221,13 @@ div.second {
 }
 .textAlign{
   text-align: left
+}
+
+/* resume  */
+.textAlignCenter{
+  text-align: center;
+}
+.resumeMainDiv{
+  width: 96%;
+  margin-left: 2%
 }

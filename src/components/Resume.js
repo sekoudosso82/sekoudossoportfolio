@@ -8,30 +8,30 @@ class Resume extends Component
             
         return(
         
-            <div>
+            <div className='resumeMainDiv'>
                 <h2> Sekou Dosso </h2>
-                <ul> Bronx, NY 10467 | 646-925-2132 | sekou.dosso82@gmail.com | Github | Blog | LinkedIn </ul>
+                <p className='textAlignCenter'> Bronx, NY 10467 | 646-925-2132 | sekou.dosso82@gmail.com | Github | Blog | LinkedIn </p>
                 <h2> FULL STACK  DEVELOPER </h2>
-                <ul>
+                <p className='textAlignCenter'>
                     Experienced in Ruby, Ruby on Rails, JavaScript, React and Redux based programming and a <br></br>
                     background in Python and Java. Possess strong skills in team-building and project management that help <br></br>
                     some of my friends and I to develop some projects. With GitHub skills I’m able to develop many projects <br></br>
                     (for example HashtagGoals and Flat-gram) remotely. 
 
-                </ul>
+                </p>
 
                 <h2> TECHNICAL SKILLS </h2>
-                <ul> Ruby, Rails, Javascript, React, Redux, Java, Python, AWS, Agile, SQL, PostgreSQL </ul>
+                <p className='textAlignCenter'> Ruby, Rails, Javascript, React, Redux, Java, Python, AWS, Agile, SQL, PostgreSQL </p>
 
                 <h2> TECHNICAL PROJECTS </h2>
-                <h3> HashtagGoals - 
+                <h3 className='textAlign'> HashtagGoals - 
                     <a href="https://github.com/WabaScript/HashtagGoals">  Github </a> |
                     <a href="https://www.youtube.com/watch?v=EcA23LmNkUw">   Demo </a>
                 </h3>
-                <ul>
+                <p>
                     HashtagGoal is a sharing goals app where users can sign in, post a goal they want to achieve <br></br>
                     or follow someone else's goal. The app front-end and back-end was built with Ruby and Rails.
-                </ul>
+                </p>
                 <ul>
                     <li>
                             Utilized bcript password hashing to store encrypted user information (back-end).
@@ -47,7 +47,7 @@ class Resume extends Component
                     </li>
                 </ul>
 
-                <h3> 
+                <h3 className='textAlign'> 
                     Flat-gram 
                     <a href="https://github.com/sekoudosso82/flat-gram-back-end"> Flat-gram back-end </a> - 
                     <a href="https://github.com/ghaxhaj/flat-gram">
@@ -57,10 +57,10 @@ class Resume extends Component
                         Demo
                     </a>
                 </h3>
-                <ul>
+                <p>
                     Flat-gram is a social media app to keep Flatrion school students connected <br></br>
                     built with Rails (back-end) and React (front-end)
-                </ul>
+                </p>
                 <ul>
                     <li>
                         	Utilized JSON Web Tokens and localStorage to store encrypted user information <br></br> 
@@ -80,17 +80,17 @@ class Resume extends Component
                     </li>
                 </ul>
                
-<h3>
+<h3 className='textAlign'>
     Corona-Market - 
     <a href='https://github.com/sekoudosso82/corona-market-back-end'> back-end </a>  
     <a href='https://github.com/sekoudosso82/corona-market-front-end'> front-end </a>| 
     <a href='https://www.youtube.com/watch?v=ePgIJa6PkSg'> Demo </a>
 
 </h3>
-    <ul>
+    <p>
         Corona-market is an app for selling unused stuff built with Rails (back-end) <br></br>
         and React (front-end)
-    </ul>
+    </p>
     <ul>
         <li>
             	Utilized JSON Web Tokens and localStorage to store encrypted user information client-side <br></br>
@@ -112,32 +112,32 @@ class Resume extends Component
 
 
 <h2> EXPERIENCE </h2>
-<h3> Software Engineer      New York, NY </h3>
+{/* <h3> Software Engineer      New York, NY </h3> */}
+<p>  Software Engineer Student        | New York, NY |   01/2020</p>
 <ul>
-    <p>  Software Engineer Student            01/2020</p>
     <li> building full stack web app. </li>
     <li> using Rails, React, Redux, PostgreSQL. </li>
 </ul>
 
-<h3> Web Developer     Abidjan, Ivory Coast </h3>
+{/* <h3> Web Developer     Abidjan, Ivory Coast </h3> */}
+<p> Web Developer       | Remote |     01/20017 - 01/2019</p>
 <ul>
-    <p> Web Developer            01/20017--01/2019</p>
     <li> building website using HTML, CSS and javaScript. </li>
     <li> Familiar with Microsoft Access, PowerPoint, and Excel. </li>
 </ul>
 
-<h3> Express Market     Abidjan, Ivory Coast </h3>
+{/* <h3> Express Market     Abidjan, Ivory Coast </h3> */}
+<p> Manager       |  Abidjan, Ivory Coast |     06/2007--11/2011</p>
 <ul>
-    <p> Manager            06/2007--11/2011</p>
     <li> Troubleshooting the cashier software. </li>
     <li> Familiar with Microsoft Access, PowerPoint, and Excel. </li>
 </ul>
 	
 <h2> EDUCATION </h2>
-<h4> Flatiron School    		 New York, NY </h4>
+<h4 className='textAlign'> Flatiron School    		 New York, NY </h4>
 <ul>Full Stack Web Development, Ruby on Rails and JavaScript program 05/2020</ul> 
 
-<h4> CUNY Lehman College     							      Bronx, NY </h4>
+<h4 className='textAlign'> CUNY Lehman College     							      Bronx, NY </h4>
 <ul> Bachelor in Computer Science       						      05/ 2019 </ul> 
     		      
 
