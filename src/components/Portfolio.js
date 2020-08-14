@@ -12,7 +12,8 @@ class Portfolio extends Component
                <div className='homeMainDiv'>
                     <div className='portfolioSubDiv'> 
                     <h4> corona-market</h4>
-                    <p>
+                    <p>                        
+                        <a href='https://sekoudosso82.github.io/corona-market-front-end/'>web app link</a>
                         <a href='https://github.com/sekoudosso82/corona-market-front-end'>Frontend link</a>|
                         <a href='https://github.com/sekoudosso82/corona-market-back-end'>Backend link</a>|
                         <a href='https://www.youtube.com/watch?v=ePgIJa6PkSg'>video demo link</a>
@@ -65,6 +66,7 @@ class Portfolio extends Component
                         
                         <h4> HashtagGoal </h4>
                         <p>
+                            <a href='https://the-goals-app.herokuapp.com/'>web app link</a>
                             <a href='https://github.com/WabaScript/HashtagGoals'>Github link</a>|
                             <a href='https://www.youtube.com/watch?v=EcA23LmNkUw'>video demo link</a>
                         </p>
@@ -141,6 +143,7 @@ class Portfolio extends Component
                         
                         <h4> my-to-do-list </h4>
                         <p>
+                            <a href='https://sekoudossoportfolio.netlify.app/'>web app link</a>
                             <a href='https://github.com/sekoudosso82/my-to-do-list'>Github link</a>
                         </p>
                         <h4> Project description</h4>

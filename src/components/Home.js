@@ -41,13 +41,14 @@ class Home extends Component
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/sekoudossoportfolio'> sekoudossoportfolio </a> </h3>
                         </div>
                         <div className='homePortfolioSubDiv'> 
-                            <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/my-to-do-list'> my-to-do-list </a> </h3>
+                        <h3 className='portfolioTextAlign'> <a href='https://sekoudossoportfolio.netlify.app/resume'> my-to-do-list </a> </h3>
+                            {/* <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/my-to-do-list'> my-to-do-list </a> </h3> */}
                         </div>
                         <div className='homePortfolioSubDiv'> 
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/School'> School </a> </h3>
                         </div>
                         <div className='homePortfolioSubDiv'>
-                            <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/corona-market-front-end'> Corona-market </a> </h3>    
+                            <h3 className='portfolioTextAlign'> <a href='https://sekoudosso82.github.io/corona-market-front-end/'> Corona-market </a> </h3>    
                         </div>
                         <div className='homePortfolioSubDiv'>      
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/Best-Deals'> Best deal </a> </h3>
@@ -56,7 +57,7 @@ class Home extends Component
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/flat-gram-back-end'> Flatgram </a> </h3>
                         </div>
                         <div className='homePortfolioSubDiv'>      
-                            <h3 className='portfolioTextAlign'> <a className='' href='https://github.com/WabaScript/HashtagGoals'> HashtagGoal </a> </h3>
+                            <h3 className='portfolioTextAlign'> <a className='' href='https://the-goals-app.herokuapp.com/'> HashtagGoal </a> </h3>
                         </div>
                         <div className='homePortfolioSubDiv'>       
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/banking_CLI'> Bank CLI app </a>  </h3>
@@ -70,7 +71,7 @@ class Home extends Component
                                     <NavLink className='homeFullPortfolioSubDiv' to='/resume'>Go to Full resume</NavLink> 
                     </h2>
                         {/* <h2> Resume</h2> */}
-                        <h2> Update Coming Soon</h2>
+                        {/* <h2> Update Coming Soon</h2> */}
                     </div>
                     <div className='homeSubDiv homeContactDiv'>
                         <h2> Contact and Blogs </h2>
