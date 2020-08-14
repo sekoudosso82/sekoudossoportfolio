@@ -41,10 +41,11 @@ class Home extends Component
                         </div>
 
                         <div className='homePortfolioSubDiv'>  
-                            <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/sekoudossoportfolio'> sekoudossoportfolio </a> </h3>
+                                                    <h3 className='portfolioTextAlign'> <a href='https://sekoudossoportfolio.netlify.app/'> sekoudossoportfolio </a> </h3>
+                            {/* <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/sekoudossoportfolio'> sekoudossoportfolio </a> </h3> */}
                         </div>
                         <div className='homePortfolioSubDiv'> 
-                        <h3 className='portfolioTextAlign'> <a href='https://sekoudossoportfolio.netlify.app/resume'> my-to-do-list </a> </h3>
+                        <h3 className='portfolioTextAlign'> <a href='https://sekoudosso82.github.io/my-to-do-list/'> my-to-do-list </a> </h3>
                             {/* <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/my-to-do-list'> my-to-do-list </a> </h3> */}
                         </div>
                         <div className='homePortfolioSubDiv'> 
@@ -61,6 +62,7 @@ class Home extends Component
                         </div>
                         <div className='homePortfolioSubDiv'>      
                             <h3 className='portfolioTextAlign'> <a className='' href='https://the-goals-app.herokuapp.com/'> HashtagGoal </a> </h3>
+                            {/* <h3 className='portfolioTextAlign'> <a className='' href='https://the-goals-app.herokuapp.com/'> HashtagGoal </a> </h3> */}
                         </div>
                         <div className='homePortfolioSubDiv'>       
                             <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/banking_CLI'> Bank CLI app </a>  </h3>
