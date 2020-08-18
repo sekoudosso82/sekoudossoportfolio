@@ -45,7 +45,7 @@ class Home extends Component
                             {/* <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/sekoudossoportfolio'> sekoudossoportfolio </a> </h3> */}
                         </div>
                         <div className='homePortfolioSubDiv'> 
-                        <h3 className='portfolioTextAlign'> <a href='https://sekoudosso82.github.io/my-to-do-list/'> my-to-do-list </a> </h3>
+                        <h3 className='portfolioTextAlign'> <a href='https://sekoudosso82.github.io/sekouschedule/'> Sekou calendar </a> </h3>
                             {/* <h3 className='portfolioTextAlign'> <a href='https://github.com/sekoudosso82/my-to-do-list'> my-to-do-list </a> </h3> */}
                         </div>
                         <div className='homePortfolioSubDiv'> 

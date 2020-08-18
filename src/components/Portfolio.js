@@ -144,11 +144,11 @@ class Portfolio extends Component
                         <h4> my-to-do-list </h4>
                         <p>
                             <a href='https://sekoudossoportfolio.netlify.app/'>web app link</a>
-                            <a href='https://github.com/sekoudosso82/my-to-do-list'>Github link</a>
+                            <a href='https://sekoudosso82.github.io/sekouschedule/'>Github link</a>
                         </p>
                         <h4> Project description</h4>
                         <p>
-                            I recently built my-to-do-list to better organize my daily schedule.
+                            I recently built and deployed this little web app to better organize my daily schedule.
                             The app is built with React, Redux (Frontend) and Rails (backend).
                         </p>
                     </div>
