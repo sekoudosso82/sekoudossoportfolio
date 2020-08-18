@@ -141,10 +141,10 @@ class Portfolio extends Component
                     </div>
                     <div className='portfolioSubDiv'>
                         
-                        <h4> my-to-do-list </h4>
+                        <h4> Sekou calendar </h4>
                         <p>
                             <a href='https://sekoudosso82.github.io/sekouschedule/'>web app link</a>
-                            <a href='https://sekoudosso82.github.io/sekouschedule/'>Github link</a>
+                            <a href='https://github.com/sekoudosso82/sekouschedule'>Github link</a>
                         </p>
                         <h4> Project description</h4>
                         <p>
