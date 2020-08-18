@@ -143,7 +143,7 @@ class Portfolio extends Component
                         
                         <h4> my-to-do-list </h4>
                         <p>
-                            <a href='https://sekoudossoportfolio.netlify.app/'>web app link</a>
+                            <a href='https://sekoudosso82.github.io/sekouschedule/'>web app link</a>
                             <a href='https://sekoudosso82.github.io/sekouschedule/'>Github link</a>
                         </p>
                         <h4> Project description</h4>
