@@ -11,28 +11,51 @@ class Portfolio extends Component
             <div>
                <div className='homeMainDiv'>
                     <div className='portfolioSubDiv'> 
-                    <h4> corona-market</h4>
-                    <p>                        
-                        <a href='https://sekoudosso82.github.io/corona-market-front-end/'>web app link</a>
-                        <a href='https://github.com/sekoudosso82/corona-market-front-end'>Frontend link</a>|
-                        <a href='https://github.com/sekoudosso82/corona-market-back-end'>Backend link</a>|
-                        <a href='https://www.youtube.com/watch?v=ePgIJa6PkSg'>video demo link</a>
-                    </p>
-                    <h4> Project description</h4>
-                    <p>
-                        Corona-market is an app for selling unused stuff built with Rails (back-end) 
-                        and React (front-end)
-                        Utilized JSON Web Tokens and localStorage to store encrypted user information
-                         client-side and bcript password hashing to encrypt the password (back-end) 
-                         in the database.
+                        <h4> corona-market</h4>
+                        <p>                        
+                            <a href='https://sekoudosso82.github.io/corona-market-front-end/'>web app link</a>
+                            <a href='https://github.com/sekoudosso82/corona-market-front-end'>Frontend link</a>|
+                            <a href='https://github.com/sekoudosso82/corona-market-back-end'>Backend link</a>|
+                            <a href='https://www.youtube.com/watch?v=ePgIJa6PkSg'>video demo link</a>
+                        </p>
+                        <h4> Project description</h4>
+                        <p>
+                            Corona-market is an app for selling unused stuff built with Rails (back-end) 
+                            and React (front-end)
+                            Utilized JSON Web Tokens and localStorage to store encrypted user information
+                            client-side and bcript password hashing to encrypt the password (back-end) 
+                            in the database.
 
-                    </p>
-                    <ul >
-                        <li className='textAlign'> Signin/signout secure the app so that user information can be tracked.</li>
-                        <li className='textAlign'> Making an offer on an item gives the ability to the users to interact with others.</li>
-                        <li className='textAlign'> Sell/buy an item allow user to interact with the app </li>
-                        <li className='textAlign'> Update(account/item) or delete(account/item) allow the users to clean their record in the database.</li>
-                    </ul>
+                        </p>
+                        <ul >
+                            <li className='textAlign'> Signin/signout secure the app so that user information can be tracked.</li>
+                            <li className='textAlign'> Making an offer on an item gives the ability to the users to interact with others.</li>
+                            <li className='textAlign'> Sell/buy an item allow user to interact with the app </li>
+                            <li className='textAlign'> Update(account/item) or delete(account/item) allow the users to clean their record in the database.</li>
+                        </ul>
+                    </div>
+                    <div className='portfolioSubDiv'> 
+                        <h4> ironlady</h4>
+                        <p>                        
+                            <a href='https://sekoudosso82.github.io/ironlady/'>web app link</a>
+                            <a href='https://github.com/sekoudosso82/ironlady'>Frontend link</a>|
+                            <a href='https://github.com/sekoudosso82/ironladyback'>Backend link</a>|
+                        </p>
+                        <h4> Project description</h4>
+                        <p>
+                            ironlady is an ecommerce web app built with Rails (back-end) 
+                            and React (front-end)
+                            Utilized JSON Web Tokens and localStorage to store encrypted user information
+                            client-side and bcript password hashing to encrypt the password (back-end) 
+                            in the database.
+
+                        </p>
+                        <ul >
+                            <li className='textAlign'> Signin/signout secure the app so that user information can be tracked.</li>
+                            <li className='textAlign'> Making an offer on an item gives the ability to the users to interact with others.</li>
+                            <li className='textAlign'> Sell/buy an item allow user to interact with the app </li>
+                            <li className='textAlign'> Update(account/item) or delete(account/item) allow the users to clean their record in the database.</li>
+                        </ul>
                     </div>
 
                     <div className='portfolioSubDiv'> 
@@ -168,10 +191,12 @@ class Portfolio extends Component
                         <h4> sekoudossoportfolio </h4>
                         <p>
                             <a href='https://github.com/sekoudosso82/sekoudossoportfolio'>Github link</a>
+                            <a href='https://sekoudossoportfolio.netlify.app/portfolio'>Github link</a>
+
                         </p>
                         <h4> Project description</h4>
-                        <p>I'm currently working on this project.</p>
-                        <p>The full description will be upload very soon.</p>
+                        <p>I'm currently working on new project.</p>
+                        <p>My porfolio will be upload very soon. I use to update it every 2 weeks.</p>
                     </div>
 
                 </div>
