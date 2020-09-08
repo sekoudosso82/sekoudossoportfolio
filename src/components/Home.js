@@ -36,8 +36,12 @@ class Home extends Component
                         <div>   
                                     <NavLink className='homeFullPortfolioSubDiv' to='/portfolio'>Go to Full Portfolio</NavLink> 
                         </div>
+                        
                         <div className='homePortfolioSubDiv'>  
                             <h3 className='portfolioTextAlign'> <a href='https://sekoudosso82.github.io/'> mairie borotou </a> </h3>
+                        </div>
+                        <div className='homePortfolioSubDiv'>  
+                            <h3 className='portfolioTextAlign'> <a href='https://sekoudosso82.github.io/ironlady/'> ironlady </a> </h3>
                         </div>
 
                         <div className='homePortfolioSubDiv'>  
